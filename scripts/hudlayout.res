@@ -74,7 +74,7 @@
 		"enabled"		"1"
 		"xpos"			"c75"	[$WIN32]
 		"ypos"			"c55"	[$WIN32]
-		"wide"			"120"
+		"wide"			"140"
 		"tall"			"50"
 	}
 	
