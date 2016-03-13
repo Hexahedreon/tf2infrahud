@@ -101,7 +101,7 @@
 		"brighttext"	"0"
 		"fgColor_Override"	"Overheal"
 		"bgColor_Override"	"0 0 0 100"
-	}		
+	}	
 
 	"ChargeMeter1"
 	{	
