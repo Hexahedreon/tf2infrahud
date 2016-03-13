@@ -22,7 +22,7 @@ Scheme
 		"AmmoInReserve"		"255 145 0 255"
 		
 		"Overheal"			"0 255 255 255"
-		"LowHealth"			"255 35 0 255"
+		"HealthDying"		"255 40 0 255"
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
